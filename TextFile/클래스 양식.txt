@@ -1,0 +1,17 @@
+﻿변수일때 다음 같이 가져가고 
+    /// <summary>
+    /// Value
+    /// </summary>
+프로퍼티일때
+    /// <summary>
+    /// Property
+    /// </summary>
+함수 일때
+    /// <summary>
+    /// Method
+    /// </summary>
+코루틴 일때
+    /// <summary>
+    /// Corotine
+    /// </summary>
+

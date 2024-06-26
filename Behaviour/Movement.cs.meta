@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/02. Scripts/Dialogue/Dialogue.cs.meta
+guid: f453d05d32f994e46aef9d81c224b7f0
+========
+guid: 2227a3fb668766448a54cec451846a78
+>>>>>>>> Dev_Branch:Assets/02. Scripts/Behaviour/Movement.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
